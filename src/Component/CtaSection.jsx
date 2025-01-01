@@ -4,14 +4,6 @@ const CtaSection = () => {
     return (
     <>
 
-<div class="bg-white flex items-center justify-center min-h-screen">
- <div class="text-center">
- <h1 class="text-lg font-semibold mb-6">
-Join 4,000+ companies already growing</h1>
- <div class="grid grid-cols-2 gap-4 md:grid-cols-3">
- <div class="flex items-center justify-center"> <img src="path/to/boltshift-logo.png" alt="Boltshift" class="h-12"/> <span class="ml-2">Boltshift</span> </div> <div class="flex items-center justify-center"> <img src="path/to/lightbox-logo.png" alt="Lightbox" class="h-12"/> <span class="ml-2">Lightbox</span> </div> <div class="flex items-center justify-center"> <img src="path/to/featherdev-logo.png" alt="FeatherDev" class="h-12"/> <span class="ml-2">FeatherDev</span> </div> <div class="flex items-center justify-center"> <img src="path/to/spherule-logo.png" alt="Spherule" class="h-12"/> <span class="ml-2">Spherule</span> </div> <div class="flex items-center justify-center"> <img src="path/to/globalbank-logo.png" alt="GlobalBank" class="h-12"/> <span class="ml-2">GlobalBank</span> </div> <div class="flex items-center justify-center"> <img src="path/to/nietzsche-logo.png" alt="Nietzsche" class="h-12"/> <span class="ml-2">Nietzsche</span> </div> </div> </div> </div>
-
-
 
 <div class="bg-gray-100">
   <div class="text-center p-4">
